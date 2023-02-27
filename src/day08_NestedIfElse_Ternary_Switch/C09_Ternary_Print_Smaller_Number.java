@@ -1,0 +1,2 @@
+package day08_NestedIfElse_Ternary_Switch;public class C09_Ternary_Print_Smaller_Number {
+}
